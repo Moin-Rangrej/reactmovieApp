@@ -17,6 +17,7 @@ const Home = () => {
   return (
     <div style={homeHeader}>
     <h1>My Home Page</h1>
+    <h1>Hello from Home Component</h1>
     <img src={Mylogo} />
       <Search />
       <Movie />
